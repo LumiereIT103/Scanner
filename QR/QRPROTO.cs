@@ -101,7 +101,12 @@ namespace QR
             }
         }
 
+        private void dgvUsers_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
 
+        }
+
+        
     }
 }
  

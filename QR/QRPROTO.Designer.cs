@@ -43,6 +43,7 @@
             dgvUsers.Name = "dgvUsers";
             dgvUsers.Size = new Size(380, 327);
             dgvUsers.TabIndex = 0;
+            dgvUsers.CellContentClick += dgvUsers_CellContentClick;
             // 
             // pictureBoxQRCode
             // 
